@@ -5,7 +5,7 @@
 
 **Gesture Interaction with 3D Printed Hybrid Compression and Inertial Tracking Device Based on Plastic Embedded Antenna for Virtual Reality Integration**
 
-SIITME 2022 Scientific Poster
+Bratu Claudiu Andrei SIITME 2022 Scientific Poster
 
 **Presentation**
 https://www.youtube.com/watch?v=ILSVlBLXGpQ
